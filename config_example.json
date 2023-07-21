@@ -1,6 +1,6 @@
 {
     "image_path": "image.jpg",
-    "image_start_coords": [741, 610],
+    "image_start_coords": [645, 338],
     "legacy_transparency": true,
     "thread_delay": 2,
     "unverified_place_frequency": false,
@@ -13,13 +13,13 @@
     "tor_delay": 5,
     "use_builtin_tor": true,
     "workers": {
-        "worker1username": {
-            "password": "password",
-            "start_coords": [0, 0]
+        "yesbabyhack": {
+            "password": "aygun1979",
+            "start_coords": [645, 338]
         },
-        "worker2username": {
-            "password": "password",
-            "start_coords": [0, 0]
+        "sıoması": {
+            "password": "aygun1979",
+            "start_coords": [645, 338]
         }
     }
 }
